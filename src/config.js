@@ -1,5 +1,5 @@
-const PORT  =  8080
-const host = process.env.PORT || 8080
+const PORT  = process.env.PORT || 8080
+const host =  'localhost'
 console.log(process.env.PORT)
  const PRIVATE_KEY = 'PRIVATE'
 
