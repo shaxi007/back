@@ -1,0 +1,178 @@
+[
+    {
+        "user_id": 2,
+        "username": "hacker_pro",
+        "password": 1111,
+        "age": 15,
+        "gender": 1,
+        "contact": "998941025689"
+    },
+    {
+        "username": "ali",
+        "password": 2020,
+        "age": 25,
+        "gender": 1,
+        "contact": "998974025689",
+        "user_id": 3
+    },
+    {
+        "username": "nozim",
+        "password": 5693,
+        "age": 20,
+        "gender": 1,
+        "contact": "998971023656",
+        "user_id": 4
+    },
+    {
+        "username": "shaxboz",
+        "password": "123456789",
+        "age": 13,
+        "gender": 1,
+        "contact": "998996425674",
+        "user_id": 7
+    },
+    {
+        "username": "??????",
+        "password": "55986",
+        "age": 19,
+        "gender": 1,
+        "contact": "998914195596",
+        "user_id": 8
+    },
+    {
+        "username": "Ismail",
+        "password": "0706",
+        "age": "19",
+        "gender": "1",
+        "contact": "99897",
+        "user_id": 9
+    },
+    {
+        "username": "user deleted",
+        "age": 15,
+        "gender": 1,
+        "contact": "998983065001",
+        "password": "1111",
+        "user_id": 10
+    },
+    {
+        "username": "abdulaziz",
+        "password": "parolsiz",
+        "age": 36,
+        "gender": 1,
+        "contact": 998888888,
+        "user_id": 15
+    },
+    {
+        "user_id": 16,
+        "contact": "99894102534689",
+        "age": 15,
+        "gender": 1,
+        "username": "sha",
+        "password": 256
+    },
+    {
+        "user_id": 17,
+        "contact": "99894102534689",
+        "age": 15,
+        "gender": 1,
+        "username": "shaxbozbek",
+        "password": 25645
+    },
+    {
+        "user_id": 18,
+        "contact": "99894102534689",
+        "age": 15,
+        "gender": 1,
+        "username": "shaxb",
+        "password": 1232
+    },
+    {
+        "user_id": 19,
+        "contact": "121212",
+        "age": "12",
+        "gender": "1",
+        "username": "dsfdfs",
+        "password": "sdfafa"
+    },
+    {
+        "user_id": 20,
+        "contact": "1111",
+        "age": "111",
+        "gender": "1",
+        "username": "shaxboz009",
+        "password": "1111"
+    },
+    {
+        "user_id": 21,
+        "contact": "121",
+        "age": "12",
+        "gender": "1",
+        "username": "hacker_pro1",
+        "password": "1212"
+    },
+    {
+        "user_id": 22,
+        "contact": "12",
+        "age": "12",
+        "gender": "1",
+        "username": "hacker_profsd",
+        "password": "1111"
+    },
+    {
+        "user_id": 23,
+        "contact": "546516",
+        "age": "12",
+        "gender": "1",
+        "username": "hacker_pro;j;jl",
+        "password": "13132"
+    },
+    {
+        "user_id": 24,
+        "contact": "5345353",
+        "age": "121",
+        "gender": "1",
+        "username": "shaxi0010",
+        "password": "5596"
+    },
+    {
+        "user_id": 25,
+        "contact": "1211",
+        "age": "2324",
+        "gender": "1",
+        "username": "fkaslfdskljfsf",
+        "password": "asfnskafjsajkf"
+    },
+    {
+        "user_id": 26,
+        "contact": "9989141",
+        "age": "13",
+        "gender": "1",
+        "username": "shaxboz1000",
+        "password": "5596"
+    },
+    {
+        "user_id": 27,
+        "contact": "3353",
+        "age": "12",
+        "gender": "1",
+        "username": "sha256",
+        "password": "2566"
+    },
+    {
+        "user_id": 28,
+        "contact": "45646",
+        "age": "345",
+        "gender": "1",
+        "username": "alla",
+        "password": "255"
+    },
+    {
+        "user_id": 29,
+        "contact": "23",
+        "age": "435",
+        "gender": "1",
+        "username": "nomsiz",
+        "password": "nom"
+    }
+]
